@@ -52,7 +52,6 @@ Once the teacher network is well-trained, it can be used to guide the student ne
 ```angular2html
 python train_student_lkd.py
 ```
-
 ### 3. Testing
 
  Run:
