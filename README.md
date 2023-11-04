@@ -4,7 +4,7 @@ This repo is the official implementation of 'Lesion-aware Knowledge Distillation
 
 **The manuscript is now under review.**
 
-![framework](https://github.com/YaqiWangCV/LKD/blob/main/docs/framework.jpg)
+![framework](https://github.com/YaqiWangCV/LKD/main/docs/framework.jpg)
 
 ## Requirements
 
