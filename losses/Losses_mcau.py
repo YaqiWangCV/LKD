@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/3/11 10:17 下午
-# @Author  : Haonan Wang
-# @File    : Losses.py
-# @Software: PyCharm
 import torch
 from torch import nn
 import torch.nn.functional as F
